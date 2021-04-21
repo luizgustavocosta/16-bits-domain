@@ -8,4 +8,4 @@
  */
 
 rootProject.name = '16-bits-domain'
-include('app')
+include('store')
